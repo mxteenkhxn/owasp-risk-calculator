@@ -7,7 +7,7 @@
 
 ## 📌 Project Summary
 
-The **OWASP Risk Calculator** is a sleek and interactive web tool that implements the [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) to help developers, security professionals, and organizations assess security risks based on various technical and business factors.
+The **OWASP Risk Calculator** is a sleek and interactive web tool that implements the [OWASP Risk Rating Methodology](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology) to help security professionals and organizations assess security risks based on various technical and business factors.
 
 This project simplifies complex risk analysis through a clean, modern UI and live calculation of risk scores. It's fully **client-side**, lightweight, and fast.
 
