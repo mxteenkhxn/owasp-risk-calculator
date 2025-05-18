@@ -1,7 +1,7 @@
 
 # 🔐 OWASP Risk Calculator
 
-[🌐 Live Demo](https://mxteenkhxn.github.io/owasp-risk-calculator/) | [📂 GitHub Repository](https://github.com/mxteenkhxn/owasp-risk-calculator)
+[🌐📲 Visit the interactive calculator now](https://mxteenkhxn.github.io/owasp-risk-calculator/)
 
 ---
 
@@ -85,13 +85,6 @@ Each input has a score from 0–9. The app:
 - 🧪 **Students/Learners** – Understand risk scoring with OWASP methods
 - 📊 **Managers & CISOs** – Make data-driven security decisions
 - 👨‍💻 **Developers** – Integrate risk awareness into the dev process
-
----
-
-## 🎯 Live Demo
-
-> 📲 Visit the interactive calculator now:  
-> 🌐 **https://mxteenkhxn.github.io/owasp-risk-calculator/**
 
 ---
 
